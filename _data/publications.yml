@@ -1,4 +1,5 @@
 featured:
+- name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Gap-Joo Na, In-Geol Chun, Blesson Varghese, and Cheol-Ho Hong, "ScissionLite: Accelerating Distributed Deep Learning with Lightweight Data Compression for IIoT",  IEEE Transactions on Industrial Informatics, Accepted (JCR 2022 IF: 12.3, Top: 2.7%)'
 - name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Minhyeok Lee, Gap-Joo Na, In-Geol Chun, Youngpil Kim, and Cheol-Ho Hong, "BioEdge: Accelerating Object Detection in Bioimages with Edge-Based Distributed Inference", Electronics, November 2023'
   url: 'https://doi.org/10.3390/electronics12214544'
 - name: 'Munkyu Lee, Hyunho Ahn, Cheol-Ho Hong, and Dimitrios S. Nikolopoulos, "gShare: A Centralized GPU Memory Management Framework to Enable GPU Memory Sharing for Containers", Future Generation Computer Systems, May 2022 (JCR 2020 IF: 7.187, Top: 6.3%)'
@@ -9,6 +10,7 @@ featured:
   url: 'https://doi.org/10.3390/app10031014'
 
 first:
+- name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Gap-Joo Na, In-Geol Chun, Blesson Varghese, and Cheol-Ho Hong, "ScissionLite: Accelerating Distributed Deep Learning with Lightweight Data Compression for IIoT",  IEEE Transactions on Industrial Informatics, Accepted (JCR 2022 IF: 12.3, Top: 2.7%)'
 - name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Minhyeok Lee, Gap-Joo Na, In-Geol Chun, Youngpil Kim, and Cheol-Ho Hong, "BioEdge: Accelerating Object Detection in Bioimages with Edge-Based Distributed Inference", Electronics, November 2023'
   url: 'https://doi.org/10.3390/electronics12214544'
 - name: 'Munkyu Lee, Hyunho Ahn, Cheol-Ho Hong, and Dimitrios S. Nikolopoulos, "gShare: A Centralized GPU Memory Management Framework to Enable GPU Memory Sharing for Containers", Future Generation Computer Systems, May 2022 (JCR 2020 IF: 7.187, Top: 6.3%)'
