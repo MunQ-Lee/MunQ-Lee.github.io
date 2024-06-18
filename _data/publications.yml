@@ -1,6 +1,7 @@
 featured:
+- name: 'Munkyu Lee, Sihoon Seong, Minki Kang, Jihyuk Lee, Gap-Joo Na, In-Geol Chun, Dimitrios Nikolopoulos and Cheol-Ho Hong, "ParvaGPU: Efficient Spatial GPU Sharing for Large-Scale DNN Inference in Cloud Environments", The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC24), Accepted, Nov 2024'
 - name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Gap-Joo Na, In-Geol Chun, Blesson Varghese, and Cheol-Ho Hong, "ScissionLite: Accelerating Distributed Deep Learning with Lightweight Data Compression for IIoT",  IEEE Transactions on Industrial Informatics, Accepted (JCR 2022 IF: 12.3, Top: 2.7%)'
-- name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Minhyeok Lee, Gap-Joo Na, In-Geol Chun, Youngpil Kim, and Cheol-Ho Hong, "BioEdge: Accelerating Object Detection in Bioimages with Edge-Based Distributed Inference", Electronics, November 2023'
+- name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Minhyeok Lee, Gap-Joo Na, In-Geol Chun, Youngpil Kim, and Cheol-Ho Hong, "BioEdge: Accelerating Object Detection in Bioimages with Edge-Based Distributed Inference", Electronics, Nov 2023'
   url: 'https://doi.org/10.3390/electronics12214544'
 - name: 'Munkyu Lee, Hyunho Ahn, Cheol-Ho Hong, and Dimitrios S. Nikolopoulos, "gShare: A Centralized GPU Memory Management Framework to Enable GPU Memory Sharing for Containers", Future Generation Computer Systems, May 2022 (JCR 2020 IF: 7.187, Top: 6.3%)'
   url: 'https://doi.org/10.1016/j.future.2021.12.016'
@@ -11,7 +12,7 @@ featured:
 
 first:
 - name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Gap-Joo Na, In-Geol Chun, Blesson Varghese, and Cheol-Ho Hong, "ScissionLite: Accelerating Distributed Deep Learning with Lightweight Data Compression for IIoT",  IEEE Transactions on Industrial Informatics, Accepted (JCR 2022 IF: 12.3, Top: 2.7%)'
-- name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Minhyeok Lee, Gap-Joo Na, In-Geol Chun, Youngpil Kim, and Cheol-Ho Hong, "BioEdge: Accelerating Object Detection in Bioimages with Edge-Based Distributed Inference", Electronics, November 2023'
+- name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Minhyeok Lee, Gap-Joo Na, In-Geol Chun, Youngpil Kim, and Cheol-Ho Hong, "BioEdge: Accelerating Object Detection in Bioimages with Edge-Based Distributed Inference", Electronics, Nov 2023'
   url: 'https://doi.org/10.3390/electronics12214544'
 - name: 'Munkyu Lee, Hyunho Ahn, Cheol-Ho Hong, and Dimitrios S. Nikolopoulos, "gShare: A Centralized GPU Memory Management Framework to Enable GPU Memory Sharing for Containers", Future Generation Computer Systems, May 2022 (JCR 2020 IF: 7.187, Top: 6.3%)'
   url: 'https://doi.org/10.1016/j.future.2021.12.016'
@@ -24,5 +25,11 @@ coop:
   # url: '/publications/FirepanIF High Performance Host-Side Flash Cache.pdf'
 
 conferences:
-- name: 'Not yet published'
-  url: ''
+- name: 'Munkyu Lee, Sihoon Seong, Minki Kang, Jihyuk Lee, Gap-Joo Na, In-Geol Chun, Dimitrios Nikolopoulos and Cheol-Ho Hong, "ParvaGPU: Efficient Spatial GPU Sharing for Large-Scale DNN Inference in Cloud Environments", The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC24), Accepted, Nov 2024'
+
+- name: 'Munkyu Lee, Sihoon Seong, Hyunho Ahn and Cheol-Ho Hong, "Accelerating Object Detection in Medical Images with Edge Computing", International Conference on Electronics, Information, and Communication (ICEIC) 2024, Feb 2024'
+  
+- name: 'Munkyu Lee, Hyunho Ahn, Sihoon Seong and Cheol-Ho Hong, "DUNet: Accelerating Distributed Deep Learning with Novel Data Compression", International Conference on Electronics, Information, and Communication (ICEIC) 2023, Feb 2023'
+  
+- name: 'Munkyu Lee and Cheol-Ho Hong, "Spatial GPU Scheduling Based on Reinforcement Learning for Deep Learning Inference Servers", 18th International Summer School on Advanced Computer Architecture and Compilation for High-performance Embedded Systems, Jul 2022'
+  url: 'https://biblio.ugent.be/publication/8772714/file/8772739'
