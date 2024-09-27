@@ -3,7 +3,7 @@ layout: home
 title: "Home"
 ---
 
-Hello and welcome to my website! I'm MunQ Lee, a dedicated researcher in computer systems, operating systems, and virtualization technologies. My academic and practical experience has given me a deep understanding of these evolving fields. This site is a comprehensive digital repository of my research, offering valuable insights for fellow researchers, students, and computing enthusiasts.
+Hello and welcome to my website! I'm Munkyu Lee, a dedicated researcher in computer systems, operating systems, and virtualization technologies. My academic and practical experience has given me a deep understanding of these evolving fields. This site is a comprehensive digital repository of my research, offering valuable insights for fellow researchers, students, and computing enthusiasts.
 
 My primary focus is on enhancing the performance and efficiency of computer systems and operating systems, with a keen interest in the potential of GPU virtualization technology. Here, you'll also find a blog where I share my thoughts on the latest trends and future directions in computer science, emphasizing the importance of collaboration and knowledge sharing.
 
