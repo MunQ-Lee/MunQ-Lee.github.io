@@ -28,10 +28,11 @@ layout: default
       <div class="col-md-10">
         {% for section in site.data.cv.academic-experience %}
           <p class="fw-bold">{{ section.title }}</p>
-          <p> &nbsp;&#150;&nbsp; {{ section.description }}</p>
+          {% for desc in section.description %}
+            <p> &nbsp;&#150;&nbsp; {{ desc }}</p>
+          {% endfor %}
         {% endfor %}
       </div>
-    </div>
     <div class="row g-5 mb-5"></div>
       <div class="col-md-2">
         <h4>Scholarship</h4>
