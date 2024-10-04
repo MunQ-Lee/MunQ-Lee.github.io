@@ -3,11 +3,11 @@ current:
   institution: 'Supported by National R&D Program through the National Research Foundation of Korea (NRF) funded by Ministry of Science and ICT'
   date: 'Sep. 2023 - Feb. 2025'
 
+past:
 - name: 'Intelligent Energy-of-Things (iEoT) System IC Center for da Vinci-type Education'
   institution: 'Supported by National R&D Program through the National Research Foundation of Korea (NRF) funded by Ministry of Science and ICT'
-  date: 'Apr. 2021 - Feb. 2025'
-
-past:
+  date: 'Sep. 2021 - Aug. 2023'
+  
 - name: 'Heterogeneous Accelerators Resource Sharing Framework for Container-based EdgeCPS Platforms'
   institution: 'Funded by Electronics and Telecommunications Research Institute (ETRI)'
   date: 'Jun. 2023 - Nov. 2023'

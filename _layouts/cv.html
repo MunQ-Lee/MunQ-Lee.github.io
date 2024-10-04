@@ -32,6 +32,17 @@ layout: default
         {% endfor %}
       </div>
     </div>
+    <div class="row g-5 mb-5"></div>
+      <div class="col-md-2">
+        <h4>Scholarship</h4>
+      </div>
+      <div class="col-md-10">
+        {% for section in site.data.cv.scholarship %}
+          <p class="fw-bold">{{ section.title }}</p>
+          <p> &nbsp;&#150;&nbsp; {{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
     <div class="row g-5 mb-5">
       <div class="col-md-2">
         <h4>Laboratory Experience</h4>
