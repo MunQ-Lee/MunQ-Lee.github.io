@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Post"
+title: "SC19 Participation"
 ---
 
-This post is written for testing post.
+![SC19](./images/SC19.jpeg)
