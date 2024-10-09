@@ -1,7 +1,7 @@
 featured:
 - name: 'Munkyu Lee, Sihoon Seong, Minki Kang, Jihyuk Lee, Gap-Joo Na, In-Geol Chun, Dimitrios Nikolopoulos and Cheol-Ho Hong, "ParvaGPU: Efficient Spatial GPU Sharing for Large-Scale DNN Inference in Cloud Environments", The International Conference for High Performance Computing, Networking, Storage, and Analysis (SC24), Nov 2024'
 
-- name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Gap-Joo Na, In-Geol Chun, Blesson Varghese, and Cheol-Ho Hong, "ScissionLite: Accelerating Distributed Deep Learning with Lightweight Data Compression for IIoT", IEEE Transactions on Industrial Informatics, June 2024 (JCR 2023 IF: 11.7, Top: 1.8%)'
+- name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Gap-Joo Na, In-Geol Chun, Blesson Varghese, and Cheol-Ho Hong, "ScissionLite: Accelerating Distributed Deep Learning with Lightweight Data Compression for IIoT",  IEEE Transactions on Industrial Informatics, Oct 2024 (JCR 2023 IF: 11.7, Top: 1.8%)'
   url: 'https://doi.org/10.1109/TII.2024.3413340'
 
 - name: 'Munkyu Lee, Hyunho Ahn, Cheol-Ho Hong, and Dimitrios S. Nikolopoulos, "gShare: A Centralized GPU Memory Management Framework to Enable GPU Memory Sharing for Containers", Future Generation Computer Systems, May 2022 (JCR 2020 IF: 7.187, Top: 6.3%)'
@@ -9,7 +9,7 @@ featured:
 
 
 journal:
-- name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Gap-Joo Na, In-Geol Chun, Blesson Varghese, and Cheol-Ho Hong, "ScissionLite: Accelerating Distributed Deep Learning with Lightweight Data Compression for IIoT", IEEE Transactions on Industrial Informatics, June 2024 (JCR 2023 IF: 11.7, Top: 1.8%)'
+- name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Gap-Joo Na, In-Geol Chun, Blesson Varghese, and Cheol-Ho Hong, "ScissionLite: Accelerating Distributed Deep Learning with Lightweight Data Compression for IIoT",  IEEE Transactions on Industrial Informatics, Oct 2024 (JCR 2023 IF: 11.7, Top: 1.8%)'
   url: 'https://doi.org/10.1109/TII.2024.3413340'
 
 - name: 'Hyunho Ahn, Munkyu Lee, Sihoon Seong, Minhyeok Lee, Gap-Joo Na, In-Geol Chun, Youngpil Kim, and Cheol-Ho Hong, "BioEdge: Accelerating Object Detection in Bioimages with Edge-Based Distributed Inference", Electronics, Nov 2023'
