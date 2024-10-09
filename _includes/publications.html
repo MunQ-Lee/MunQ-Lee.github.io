@@ -3,18 +3,21 @@
     <h3 class="fw-bold border-bottom pb-3 mb-3">Publications</h3>
     {% if page.title == "Home" %}
       {% for item in site.data.publications.featured %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <p>{{ item.name }}</p>
+        <p> &nbsp;&#150;&nbsp; <a href="{{ item.url }}">{{ item.url }}</a></p>
       {% endfor %}
     {% else %}
       <h4>Journal</h4>
       {% for item in site.data.publications.journal %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <p>{{ item.name }}</p>
+        <p> &nbsp;&#150;&nbsp; <a href="{{ item.url }}">{{ item.url }}</a></p>
       {% endfor %}
       &nbsp;&nbsp;&nbsp;
 
       <h4>International conferences</h4>
       {% for item in site.data.publications.conferences %}
-        <p><a href="{{ item.url }}">{{ item.name }}</a></p>
+        <p>{{ item.name }}</p>
+        <p> &nbsp;&#150;&nbsp; <a href="{{ item.url }}">{{ item.url }}</a></p>
       {% endfor %}
       &nbsp;&nbsp;&nbsp;
       
