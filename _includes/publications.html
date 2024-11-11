@@ -17,7 +17,9 @@
       <h4>International conferences</h4>
       {% for item in site.data.publications.conferences %}
         <p>{{ item.name }}</p>
-        <!-- <p> &nbsp;&#150;&nbsp; <a href="{{ item.url }}">{{ item.url }}</a></p> -->
+        {% if item.url %}
+        <p> &nbsp;&#150;&nbsp; <a href="{{ item.url }}">{{ item.url }}</a></p>
+        {% endif %}
       {% endfor %}
       &nbsp;&nbsp;&nbsp;
       
