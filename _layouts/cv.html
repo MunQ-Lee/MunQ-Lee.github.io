@@ -17,6 +17,9 @@ layout: default
           {% if section.thesis %}
             <p> &nbsp;&#150;&nbsp; Thesis: "{{ section.thesis }}"</p>
           {% endif %}
+          {% if section.dissertation %}
+            <p> &nbsp;&#150;&nbsp; Dissertation: "{{ section.dissertation }}"</p>
+          {% endif %}
           <p> &nbsp;&#150;&nbsp; {{ section.description }}</p>
         {% endfor %}
       </div>
