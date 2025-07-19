@@ -2,7 +2,7 @@
 layout: home
 title: "Home"
 ---
-Hello and welcome to my website. I’m Munkyu Lee, a researcher specializing in system software, operating systems, and GPU virtualization technologies. Currently, I am a Ph.D. candidate in the Department of Intelligent Semiconductor Engineering at Chung-Ang University, working under the supervision of Professor Cheol-Ho Hong in the System Software Lab. My research is grounded in both academic depth and practical system-level implementation, aiming to improve the performance and efficiency of large-scale computing environments.
+Hello and welcome to my website. I’m Munkyu Lee, a researcher specializing in system software, operating systems, and GPU virtualization technologies. Currently, I am a Ph.D. researcher in the Department of Intelligent Semiconductor Engineering at Chung-Ang University, working under the supervision of Professor Cheol-Ho Hong in the System Software Lab. My research is grounded in both academic depth and practical system-level implementation, aiming to improve the performance and efficiency of large-scale computing environments.
 
 My doctoral research focuses on spatial GPU sharing for large-scale deep neural network (DNN) inference in cloud environments. I am the first author of ParvaGPU, accepted to SC24, which proposes a novel GPU sharing framework that enhances utilization while mitigating interference across workloads. This work builds on my master’s thesis, gShare, which introduced a GPU memory sharing framework for containerized deep learning workloads.
 
