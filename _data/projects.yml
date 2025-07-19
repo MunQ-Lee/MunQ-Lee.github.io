@@ -1,14 +1,14 @@
 current:
-- name: 'BK21FOUR Education and Research of Integrative Creativity for Intelligent semiconductor Chips'
+- name: 'BK21FOUR Education and Research of Integrative Creativity for Intelligent Semiconductor Chips'
   institution: 'Supported by National R&D Program through the National Research Foundation of Korea (NRF) funded by Ministry of Science and ICT'
   date: 'Sep. 2023 - Feb. 2025'
 
 past:
-- name: 'Intelligent Energy-of-Things (iEoT) System IC Center for da Vinci-type Education'
+- name: 'Intelligent Energy-of-Things (iEoT) System IC Center for da Vinci-Type Education'
   institution: 'Supported by National R&D Program through the National Research Foundation of Korea (NRF) funded by Ministry of Science and ICT'
   date: 'Sep. 2021 - Aug. 2023'
   
-- name: 'Heterogeneous Accelerators Resource Sharing Framework for Container-based EdgeCPS Platforms'
+- name: 'Heterogeneous Accelerators Resource Sharing Framework for Container-Based EdgeCPS Platforms'
   institution: 'Funded by Electronics and Telecommunications Research Institute (ETRI)'
   date: 'Jun. 2023 - Nov. 2023'
   
@@ -16,15 +16,15 @@ past:
   institution: 'Supported by the National Research Foundation of Korea (NRF) grant funded by the Korea government (MSIT)'
   date: 'Mar. 2019 - Feb. 2023'
 
-- name: 'GPU Resource Reinforcement Framework for Container-based EdgeCPS Platforms'
+- name: 'GPU Resource Reinforcement Framework for Container-Based EdgeCPS Platforms'
   institution: 'Funded by Electronics and Telecommunications Research Institute (ETRI)'
   date: 'Jun. 2022 - Nov. 2022'
 
-- name: 'GPU Resource Management in Multi-access Edge Computing (MEC)'
+- name: 'GPU Resource Management in Multi-Access Edge Computing (MEC)'
   institution: 'Funded by Electronics and Telecommunications Research Institute (ETRI)'
   date: 'Aug. 2021 - Nov. 2021'
   
-- name: 'Cloud Credentials Acquisition on PC-based Systems'
+- name: 'Cloud Credentials Acquisition on PC-Based Systems'
   institution: "Funded by Supreme Prosecutor's Office of the Republic of Korea"
   date: 'Jun. 2020 - Nov. 2020'
 
